@@ -204,6 +204,12 @@ or
 
 ---
 
+## 💻 Live Demo
+
+👉 **Check out the live app here:**  
+[🔗 Heart Disease Prediction App (Streamlit)](https://heartcare-ai-model-by-mudasir.streamlit.app/)
+
+
 ## 🤝 Contributions
 
 Pull requests are welcome. Please open an issue first to discuss what you would like to change.
