@@ -64,7 +64,7 @@ input_data[numerical_cols] = scaler.transform(input_data[numerical_cols])
 if st.button("Predict"):
     prediction = model.predict(input_data)[0]
     if prediction == 1:
-        st.error("⚠️ You may have heart disease.")
+        st.error("⚠️ Risk of heart disease found.")
     else:
         st.success("✅ No heart disease detected.")
 
